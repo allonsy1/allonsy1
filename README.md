@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @allonsy1
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning py, ruby, html
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
